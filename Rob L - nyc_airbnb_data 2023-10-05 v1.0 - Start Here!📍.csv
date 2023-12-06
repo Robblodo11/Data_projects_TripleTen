@@ -1,0 +1,18 @@
+Executive Summary
+The following analysis is to analyze the current Airbnb vacation rental market in New York City's Manhattan borough; to determine useful insights in order to understand which types of properties would be best to target and invest in.
+"Amongst all vacation rentals in the top 10 neighborhoods in Manhattan, 1 bedroom apartments have the largest sum of reviews, or amount of times the apartment has been rented, with a grand total of 16,691 reviews (estimated # of times listing was rented) Refer to Most Popular # of Bedrooms in top 10 Neighborhoods"
+"Recommend to investor to Invest in properties with 1 bedroom in Midtown. The estimated annual revenue from midtown properties with 1 bedroom is $99,912. In order to calculate estimated annual revenue, you need to mulitply 365 days for the year times the average price times the occupancy rate. Refer to Average Price & Occupancy Rate Pivot Table"
+"Buildings with Doormen do not show a difference in Checkin ratings when compared to buidlings without doormen. When the 2 are compared, both show an average rating of 4.9 stars whether the building has a doorman or not. Refer to Building Staff vs Checkin Ratings Pivot Table"
+Hosts can and do charge higher prices on average for listings with higher review ratings. Refer to Review Scores Rating vs Average Price Pivot Table
+Table Of Contents
+Assumptions & Change Log
+Data Dictionary
+Listings Clean
+Top 10 Neighborhoods Pivot Table
+Most Popular # of Bedrooms in top 10 Neighborhoods Pivot Table
+Average Price & Occupancy Rate Pivot Table
+Building Staff vs Checkin Ratings Pivot Table
+Review Scores Rating vs Average Price Pivot Table
+Calendar Clean
+Average Occupancy Pivot Table
+Average Occupancy vs Day of Week Pivot Table
